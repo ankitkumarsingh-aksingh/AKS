@@ -17,6 +17,10 @@
  */
 package org.tomahawk.libtomahawk.authentication;
 
+/**
+ * Edited by AKSingh on 12/24/2016.
+ */
+
 public abstract class AuthenticatorUtils {
 
     private final String mPrettyName;

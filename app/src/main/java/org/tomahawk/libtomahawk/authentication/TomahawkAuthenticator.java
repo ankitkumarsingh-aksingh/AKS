@@ -29,6 +29,10 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.IBinder;
 
+/**
+ * Edited by AKSingh on 12/24/2016.
+ */
+
 public class TomahawkAuthenticator extends AbstractAccountAuthenticator {
 
     private static final String TAG = TomahawkAuthenticator.class.getSimpleName();

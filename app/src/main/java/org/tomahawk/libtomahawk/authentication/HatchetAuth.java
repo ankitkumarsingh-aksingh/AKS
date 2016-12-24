@@ -26,6 +26,10 @@ import retrofit.http.Header;
 import retrofit.http.POST;
 import retrofit.http.Path;
 
+/**
+ * Edited by AKSingh on 12/24/2016.
+ */
+
 public interface HatchetAuth {
 
     @FormUrlEncoded

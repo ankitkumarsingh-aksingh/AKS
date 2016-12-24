@@ -26,6 +26,10 @@ import android.widget.Toast;
 
 import java.util.HashMap;
 
+/**
+ * Edited by AKSingh on 12/24/2016.
+ */
+
 public class AuthenticatorManager {
 
     public final static int CONFIG_TEST_RESULT_TYPE_OTHER = 0;
